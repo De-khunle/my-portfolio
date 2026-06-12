@@ -103,7 +103,8 @@ export const education = [
     // period: "2018 - 2025",
     gpa: "4.14/5",
     achievements: [
-      "Vice Chancellor's Honour List for academic excellence ",
+      "Vice Chancellor's Certificate of Academic Excellence",
+      "Certificate of Service (National Association of Engineering Students)",
       "Led the Blockfest 1.0 initiatives for onboarding students into Web3 ",
     ],
     courses: [
@@ -116,7 +117,7 @@ export const education = [
 ];
 
 export const experience = [
-    {
+  {
     position: "Freelance Web Developer",
     company: "Upwork",
     location: "Remote",
@@ -157,4 +158,3 @@ export const experience = [
     technologies: ["JavaScript", "React", "Git", "GitHub"],
   },
 ];
-
