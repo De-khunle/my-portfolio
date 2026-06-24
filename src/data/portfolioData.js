@@ -4,7 +4,7 @@ export const personalInfo = {
   bio: "Passionate software engineer with 2+ years of hands-on experience and strong foundation in programming and web development. Enthusiastic about creating innovative solutions and learning emerging technologies.",
   location: "Nigeria",
   email: "popoolahabeeb9@gmail.com",
-  phone: "+234 2986 0114",
+  phone: "+234 8129860114",
   image: "MeInBlueTop.jpeg",
 };
 
